@@ -2,8 +2,8 @@ import requests
 import telebot
 import emoji
 
-bot = telebot.TeleBot("your api")
-author_name = 'your name'
+bot = telebot.TeleBot("25641968")
+author_name = 'Luis'
 
 hrestik = emoji.emojize(":cross_mark:")
 galochka = emoji.emojize(":check_mark:")
